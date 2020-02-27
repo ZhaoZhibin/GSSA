@@ -4,7 +4,7 @@ Source codes for the paper "Sparsity-assisted Fault Feature Enhancement: Algorit
 
 
 This repository contains the implementation details of our paper: [TIM]
-"[**Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware**](https://zhaozhibin.github.io/)" 
+"[**Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware**](https://ieeexplore.ieee.org/document/9007828)" 
 by [Zhibin Zhao](https://zhaozhibin.github.io/). 
 
 
